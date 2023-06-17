@@ -1,0 +1,26 @@
+[
+    {
+        "image": "story0.png",
+        "name": "Cerita Anda"
+    },
+    {
+        "image": "story1.png",
+        "name": "Samsung"
+    },
+    {
+        "image": "story2.png",
+        "name": "Apple"
+    },
+    {
+        "image": "story3.png",
+        "name": "Flutter"
+    },
+    {
+        "image": "story4.png",
+        "name": "Facebook"
+    },
+    {
+        "image": "story5.png",
+        "name": "Google"
+    }
+]
