@@ -5,7 +5,7 @@ import 'package:instagram_clone/widgets/story.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
-// update
+// update .....
   @override
   Widget build(BuildContext context) {
     return Scaffold(
